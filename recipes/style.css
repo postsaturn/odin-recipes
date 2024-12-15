@@ -1,0 +1,15 @@
+.main-text{
+    text-align: center;
+}
+
+body{
+    background-color: coral;
+}
+
+.links{
+    font-size: 25px;
+}
+
+.bullet{
+    color: white;
+  }
